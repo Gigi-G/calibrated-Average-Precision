@@ -1,4 +1,8 @@
+![test](https://github.com/Gigi-G/calibrated-Average-Precision/workflows/test/badge.svg)
+
 ## Introduction
+
+
 
 This README provides an explanation of calibrated Average Precision (cAP). The cAP metric is particularly useful when assessing the performance of online action detectors, which need to make decisions at every frame for every action. It aims to address some of the shortcomings of the traditional Average Precision (AP) metric in scenarios where the ratio of positive frames to negative background frames is not balanced.
 
